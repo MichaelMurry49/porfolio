@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+.inner > div {
+	font-size: 10px;
+	color: black;
+	font-style: italic;
+}
 ol, ul {
 	list-style: none;
 }
